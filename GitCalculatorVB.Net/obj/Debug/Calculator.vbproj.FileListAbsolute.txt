@@ -1,0 +1,12 @@
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Dan\Work\Udemy\Visual Basic .NET\Calculator\Calculator\obj\Debug\Calculator.pdb
